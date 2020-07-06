@@ -11,6 +11,22 @@ color: rebeccapurple;
 border:none;
 border-radius: 8px;
 cursor: pointer;
+}
 
+.cat1,.cat2,.cat3{ padding: 15px 30px; border-radius: 10px;}
+
+.cat1{background-color: salmon;}
+.cat2{background-color: skyblue;}
+.cat3{background-color: teal;}
+
+
+.categaries h1{color: white;}
+.categaries img{ width: 100px;}
+
+.shoes{margin-top: 20px;}
+.card{border: none;
+    box-shadow: 5px 5px 10px; 
+    lighting-color: gray;
 
 }
+
