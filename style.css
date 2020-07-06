@@ -1,0 +1,16 @@
+.container{margin-bottom: 100px;}
+
+.orange-bg{ background-color: #fceae8;margin: 78px; margin-top: 0px;
+border-radius: 10px;}
+
+.carousel{padding: 20px 40px;}
+.price{color: brown;}
+
+.buy{ background-image: linear-gradient(to bottom red 100% , rgb(179, 255, 0));
+color: rebeccapurple;
+border:none;
+border-radius: 8px;
+cursor: pointer;
+
+
+}
